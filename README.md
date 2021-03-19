@@ -1,6 +1,6 @@
 # GoDjangoSession
 
-Valid for django 3.0.5git branch -M main
+Valid for django 3.0.5
 
 Usage:
 
